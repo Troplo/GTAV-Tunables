@@ -732,15 +732,13 @@
         "CONTENT_MODIFIER_1": {
             "XP_MULTIPLIER": 3,
             "CASH_MULTIPLIER": 3,
-            "JOB_RP_CAP": 30000
+            "JOB_RP_CAP": 30000,
+            "_0xD1100787": false
         },
         "CONTENT_MODIFIER_0": {
             "CASH_MULTIPLIER": 2,
             "XP_MULTIPLIER": 2,
             "JOB_RP_CAP": 20000
-        },
-        "UNKNOWN": {
-            "8B7D3320": "g+cW5pioB6S6g81pT96nr5Byo8HPUJvfiNCP9I+/q3fGqp9jbbNIqPmFyhaJAzlwKHxvve1NiSeJrJyHjz8Lj2ISpdgnrZS0tyhxHn6cLvxqor3eY/xrWzfUTnvqbtBlWzjqH04TL5MskyknAyelknmnG+Wl0+LnozFWpsYO3m6j18zHyrgXdzy4GwJr/qtE"
         },
         "MP_Global": {
             "_0x19EEFD4F": true,

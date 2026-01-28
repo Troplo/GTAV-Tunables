@@ -1120,7 +1120,8 @@
             "FAKE_CASH_MULTIPLIER": 2,
             "CASH_MULTIPLIER": 1,
             "XP_MULTIPLIER": 2,
-            "JOB_RP_CAP": 20000
+            "JOB_RP_CAP": 20000,
+            "_0x46E1C222": false
         },
         "MP_Global": {
             "_0x19EEFD4F": true,

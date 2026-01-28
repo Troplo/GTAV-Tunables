@@ -732,7 +732,8 @@
         "CONTENT_MODIFIER_1": {
             "XP_MULTIPLIER": 3,
             "CASH_MULTIPLIER": 3,
-            "JOB_RP_CAP": 30000
+            "JOB_RP_CAP": 30000,
+            "_0xD1100787": false
         },
         "CONTENT_MODIFIER_0": {
             "CASH_MULTIPLIER": 2,
