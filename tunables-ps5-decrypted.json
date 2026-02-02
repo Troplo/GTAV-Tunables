@@ -64,6 +64,10 @@
             "_0x8A049B06": true,
             "SOCIAL_CLUB_GARAGE_VEHICLE_3_WHEEL_TYPE": 0,
             "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_6": 0,
+            "EXPECTEDBGSNUMBERBGSK": 117520752,
+            "POSIXTIMEBGSK": 1769784239,
+            "DISABLEWHENONMISSIONBGSK": true,
+            "_0x50F5C4AF": false,
             "BIKER_DISABLE_SELL_HELICOPTER_DROP": true,
             "_0xABDE06E8": true,
             "HOTKNIFE_WEB_PRICE_MODIFIER": 0,
@@ -1112,8 +1116,7 @@
             "FAKE_CASH_MULTIPLIER": 2,
             "CASH_MULTIPLIER": 1,
             "XP_MULTIPLIER": 2,
-            "JOB_RP_CAP": 20000,
-            "_0x58F8E650": false
+            "JOB_RP_CAP": 20000
         },
         "MP_Global": {
             "_0x19EEFD4F": true,
