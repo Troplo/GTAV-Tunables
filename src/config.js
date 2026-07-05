@@ -1,7 +1,7 @@
 module.exports = {
     DEBUG: false,
     KEY: 'F06F12F49B843DADE4A7BE053505B19C9E415C95D93753450A269144D59A0115',
-    PLATFORMS: ['xbox360', 'xboxone', 'xboxsx', 'ps3', 'ps4', 'ps5', 'pcros'],
+    PLATFORMS: ['pcrosalt', 'pcros'],
     URLS: {
         TUNABLES: 'http://prod.cloud.rockstargames.com/titles/gta5/{platform}/0x1a098062.json',
         TUNABLE_NAMES: 'https://raw.githubusercontent.com/Wildbrick142/V-Tunable-Names/main/tunable_list.txt',
