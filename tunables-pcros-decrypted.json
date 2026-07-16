@@ -38,6 +38,10 @@
             "FM_CORONA_PLAYLIST_LENGTH_PROFESSIONAL_9": 0,
             "_0x8A049B06": true,
             "FM_CORONA_PLAYLIST_ROOT_CONTENT_ID_0_PROFESSIONAL_6": 0,
+            "GANGOPS_THE_IAA_JOB_CASH_REWARD": 877500,
+            "GANGOPS_THE_SUBMARINE_JOB_CASH_REWARD": 1282500,
+            "GANGOPS_THE_MISSILE_SILO_JOB_CASH_REWARD": 1620000,
+            "_0x50F5C4AF": false,
             "BIKER_DISABLE_SELL_HELICOPTER_DROP": true,
             "DISABLE_DISPATCH_WORK_HELI_SCAN": false,
             "DISABLE_DISPATCH_WORK_PRISONER_TRANSPORT": false,
@@ -705,8 +709,7 @@
         "CONTENT_MODIFIER_0": {
             "CASH_MULTIPLIER": 3,
             "XP_MULTIPLIER": 3,
-            "JOB_RP_CAP": 30000,
-            "_0xC22E69C4": false
+            "JOB_RP_CAP": 30000
         },
         "UNKNOWN": {
             "8B7D3320": "S7ZHMKvNIuNg/mIj4J2AZrQimgLOasivUx88CMmr/iMdDz0ISNMsJt4ncW2zDXyb"
