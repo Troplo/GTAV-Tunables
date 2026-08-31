@@ -710,14 +710,14 @@
             "JOB_RP_CAP": 20000
         },
         "CONTENT_MODIFIER_0": {
-            "CASH_MULTIPLIER": 6,
-            "XP_MULTIPLIER": 6,
-            "JOB_RP_CAP": 60000
+            "CASH_MULTIPLIER": 2,
+            "XP_MULTIPLIER": 2,
+            "JOB_RP_CAP": 20000
         },
         "CONTENT_MODIFIER_2": {
-            "CASH_MULTIPLIER": 6,
-            "XP_MULTIPLIER": 6,
-            "JOB_RP_CAP": 60000
+            "CASH_MULTIPLIER": 3,
+            "XP_MULTIPLIER": 3,
+            "JOB_RP_CAP": 30000
         },
         "MP_Global": {
             "_0x19EEFD4F": true,
@@ -749,7 +749,7 @@
             "_0x856DFEFD": true,
             "_0x33733A31": 1,
             "_0xC5FE0EEF": true,
-            "TUNABLE_VERSION": 5131,
+            "TUNABLE_VERSION": 5132,
             "EVENT_WKLY": 513
         }
     }
