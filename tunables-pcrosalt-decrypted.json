@@ -969,7 +969,7 @@
             "VC_ACE_OF_HEARTS": 61666,
             "VC_ACE_OF_CLUBS": 59444,
             "VC_ACE_OF_DIAMONDS": 60555,
-            "SSP2WEATHER": true,
+            "SSP2WEATHER": false,
             "ENABLE_VEHICLE_ROMERO": true,
             "STANDARDCONTROLLERVOLUME": 1,
             "NC_SOURCE_TRUCK_HEAD_COUNT": 3,
